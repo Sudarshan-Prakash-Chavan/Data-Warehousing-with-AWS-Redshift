@@ -207,3 +207,10 @@ Check Data Catalog -> Databases -> spectrumDB -> tables -> sales for columns.
 > AND spectrum.sales1.pricepaid > 30
 
 > GROUP BY event1.eventname ORDER BY 2 DESC;
+
+
+**Notes:**
+
+>  Replace YOUR_ACCOUNT_ID and IAM_ROLE_NAME with your specific AWS account ID and role name.
+
+>  Customize the S3 bucket names and paths as needed for your implementation.
