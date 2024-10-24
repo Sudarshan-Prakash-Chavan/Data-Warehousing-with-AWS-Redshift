@@ -19,7 +19,7 @@ It includes the creation of IAM roles, S3 bucket setup, Redshift cluster configu
 
 **Architectural Diagram**
 
-
+![Data-Warehousing-with-AWS-Redshift](https://github.com/user-attachments/assets/d81e1766-41e2-4146-b9d9-bea4f525d75c)
 
 **Prerequisites**
 
